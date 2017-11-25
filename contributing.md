@@ -2,7 +2,7 @@
 
 ## Contributions
 
-Anyone can participate at his own level by creating [issues](issues/new) or [pull requests](compare) to:
+Anyone can participate at his own level by creating issues or pull requests to:
 - propose ontologies about scientific research, in order to identify relevant research items to manage
 - propose distributed architectures and design, in order for individuals to create, store, retrieve, update, and share these research items
 - propose protocols of exchange, in order to share these research items between peers
