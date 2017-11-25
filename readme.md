@@ -45,3 +45,8 @@ One thing to be clarified is that we **are not rivals** of the traditionnal publ
 Traditionnal publishing has achieved a great job to produce high quality, reliable scientific outcomes, and we share this objective with them.
 But they did so through a centralised architecture, enforcing the focus on the most relevant production only, a strategy naturally leading towards resource-consuming controls and competitive behaviours between researchers.
 Our proposal is to foster cheap controls and cooperative behaviours, where low quality research can be produced but soon be improved through the participation of everyone.
+
+# How to Participate
+
+This project is in its infancy so any help is welcome.
+Please look our [contribution guidelines](contributing.md) for more information.
