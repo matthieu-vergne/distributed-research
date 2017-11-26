@@ -7,7 +7,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description   | Individual of the network. |
-| Example       | TODO |
 | Formalisation | Peer(x) |
 
 ## User
@@ -15,7 +14,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Local [Peer](#peer). |
-| Example                       | TODO |
 | Formalisation                 | User(x) |
 | [is_a](relationships.md#is-a) | [Peer](#peer) |
 
@@ -25,7 +23,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description   | Database of a [Peer](#peer). It can be local ([User](#user)’s Research Base) or remote (other [Peer](#peer)’s Research Base). |
-| Example       | TODO |
 | Formalisation | Research_Base(x) |
 
 ## System
@@ -33,7 +30,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description   | Website, app, or other interface used to access a [Research Base](#research-base) |
-| Example       | TODO |
 | Formalisation | System(x) |
 
 ## Research Item
@@ -41,7 +37,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description   | Atomic element stored in a [Research Base](#research-base). |
-| Example       | TODO |
 | Formalisation | Research_Item(x) |
 
 ## Motive
@@ -49,7 +44,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Research Item describing the initiator of a research process. |
-| Example                       | TODO |
 | Formalisation                 | Motive(x) |
 | [is_a](relationships.md#is-a) | [Research_Item](#research-item) |
 
@@ -58,7 +52,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Motive describing an interrogative expression to be answered, equivalent to the Objective “Have the question X answered.”. |
-| Example                       | TODO |
 | Formalisation                 | Question(x) |
 | [is_a](relationships.md#is-a) | [Motive](#motive) |
 
@@ -67,7 +60,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Motive describing a state of the world to be reached, equivalent to the Question “How to reach objective X?”. |
-| Example                       | TODO |
 | Formalisation                 | Objective(x) |
 | [is_a](relationships.md#is-a) | [Motive](#motive) |
 
@@ -76,7 +68,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Research Item describing computable data. |
-| Example                       | TODO |
 | Formalisation                 | Dataset(x) |
 | [is_a](relationships.md#is-a) | [Research_Item](#research-item) |
 
@@ -85,7 +76,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Dataset describing directly the data. |
-| Example                       | TODO |
 | Formalisation                 | Raw_Dataset(x) |
 | [is_a](relationships.md#is-a) | [Dataset](#dataset) |
 
@@ -94,7 +84,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Dataset describing a transformation, possibly recursive, of one or more Datasets. |
-| Example                       | TODO |
 | Formalisation                 | Processed_Dataset(x) |
 | [is_a](relationships.md#is-a) | [Dataset](#dataset) |
 
@@ -103,7 +92,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Dataset describing a link to another Dataset. |
-| Example                       | TODO |
 | Formalisation                 | Linked_Dataset(x) |
 | [is_a](relationships.md#is-a) | [Dataset](#dataset) |
 
@@ -112,7 +100,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Research Item describing a sequence of steps to execute to satisfy a Motive. |
-| Example                       | TODO |
 | Formalisation                 | Method(x) |
 | [is_a](relationships.md#is-a) | [Research_Item](#research-item) |
 
@@ -121,7 +108,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Method which can be automatically executed on a Dataset. |
-| Example                       | TODO |
 | Formalisation                 | Computable_Method(x) |
 | [is_a](relationships.md#is-a) | [Method](#method) |
 
@@ -130,7 +116,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Research Item describing the outcomes of a single execution of a Method. |
-| Example                       | TODO |
 | Formalisation                 | Result(x) |
 | [is_a](relationships.md#is-a) | [Research_Item](#research-item) |
 
@@ -139,7 +124,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Result produced by executing a Computable Method. |
-| Example                       | TODO |
 | Formalisation                 | Computed_Result(x) |
 | [is_a](relationships.md#is-a) | [Result](#result) |
 
@@ -148,7 +132,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Research Item closing a research process (i.e. satisfying a Motive) |
-| Example                       | TODO |
 | Formalisation                 | Solution(x) |
 | [is_a](relationships.md#is-a) | [Research_Item](#research-item) |
 
@@ -157,7 +140,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Solution to a Question |
-| Example                       | TODO |
 | Formalisation                 | Answer(x) |
 | [is_a](relationships.md#is-a) | [Solution](#solution) |
 
@@ -166,7 +148,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Solution to an Objective **(difference with Method?)** |
-| Example                       | TODO |
 | Formalisation                 | Recipe(x) |
 | [is_a](relationships.md#is-a) | [Solution](#solution) |
 
@@ -175,7 +156,6 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description                   | Research Item describing how to evaluate a Research Item in a computable way. |
-| Example                       | TODO |
 | Formalisation                 | Quality_Measure(x) |
 | [is_a](relationships.md#is-a) | [Research_Item](#research-item) |
 
