@@ -41,12 +41,16 @@ To make scientific outcomes flow easily between people, we would like to exploit
 This project thus attempts to support research activities in a distributed fashion, by using new technologies and the collaborative participation of Internet users.
 Said another way, we want to offer an alternative way to access and publish research, which would not rely on the heavy, centralised processess offered by traditionnal publishers.
 
-One thing to be clarified is that we **are not rivals** of the traditionnal publishers: we want to offer an alternative to those who do not recognise themselves in the way traditional research is produced.
-Traditionnal publishing has achieved a great job to produce high quality, reliable scientific outcomes, and we share this objective with them.
-But they did so through a centralised architecture, enforcing the focus on the most relevant production only, a strategy naturally leading towards resource-consuming controls and competitive behaviours between researchers.
-Our proposal is to foster cheap controls and cooperative behaviours, where low quality research can be produced but soon be improved through the participation of everyone.
-
 # How to Participate
 
 This project is in its infancy so any help is welcome.
 Please look our [contribution guidelines](contributing.md) for more information.
+
+# Distributed vs. Traditionnal Research
+
+One thing to be clarified is that we **are not rivals** of the traditionnal publishers.
+We want to offer an alternative to those who do not recognise themselves in the way traditional research is produced, not take the lead.
+Traditionnal publishing has achieved a great job to produce high quality, reliable scientific outcomes, and we share this objective with it.
+But it did so through a centralised architecture, enforcing the focus on the most relevant production only, a strategy naturally leading towards resource-consuming controls and competitive behaviours (e.g. to obtain grants or have papers published).
+Our proposal fosters cheap controls and cooperative behaviours, where low quality research can be produced and easily be improved through the participation of willing people.
+In the long term, our solution must be able to build on research produced through distributed means as well as what has been and will be produced through traditional publishers.
