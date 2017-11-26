@@ -15,8 +15,8 @@ We described each of them informally to provide a basic understanding.
 
 |||
 |---|---|
-| Description   | Local [Peer](#Peer). |
-| Formalisation | User(x) = [Peer](#Peer)(x) |
+| Description   | Local [Peer](#peer). |
+| Formalisation | User(x) = [Peer](#peer)(x) |
 | Example       | TODO |
 
 
@@ -24,6 +24,6 @@ We described each of them informally to provide a basic understanding.
 
 |||
 |---|---|
-| Description   | Database of a [Peer](#Peer), it can be local ([User](#User)’s Research Base) or remote (other [Peer](#Peer)’s Research Base). |
-| Formalisation | User(x) = [Peer](#Peer)(x) |
+| Description   | Database of a [Peer](#peer), it can be local ([User](#User)’s Research Base) or remote (other [Peer](#peer)’s Research Base). |
+| Formalisation | User(x) = [Peer](#peer)(x) |
 | Example       | TODO |
