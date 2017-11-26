@@ -15,7 +15,7 @@ We provide here the list of concepts of our research ontology.
 |||
 |---|---|
 | Description   | Local [Peer](#peer). |
-| Formalisation | User(x) [is_a](relationships.md#is_a) [Peer](#peer)(x) |
+| Formalisation | User(x) [is_a](relationships.md#is-a) [Peer](#peer)(x) |
 | Example       | TODO |
 
 
