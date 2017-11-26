@@ -1,7 +1,8 @@
 # Research Ontology
 
-This directory contains our [ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)) of research, which describes the various research concepts we consider in this project and their relationships.
-It provides the common ground of the project, with a terminology and formalisation of the research artefacts and activities we consider.
+An [ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)) describes various concepts and their relationships in a formal way.
+This directory contains our ontology about research, which describes the various research artefacts and activities we consider in this project.
+This is the common ground of the project.
 People not familiar with logical notations may start [here](formalisation.md) for a short explanation.
 
 Currently, it is still a set of personnal notes, without proper discussion nor formal check.

@@ -32,7 +32,7 @@ If you want to write with such notation in your issues or pull requests, here ar
 1. write in your document an image embedder: `![]()`
 2. write in the square brackets a textual equivalent of your formula, like `![A -> B]()`
 3. go to [this equation editor](http://latex.codecogs.com/eqneditor/editor.php)
-4. type the LaTeX formula you want to insert in the editor, like `A \rightarrow B`
+4. type the LaTeX formula you want in the editor, like `A \rightarrow B` (use the symbols above the editor for help)
 5. wait for the formula to be rendered as an image below the editor
 6. copy the URL of the image (right-click on the image + copy URL)
 7. insert the URL in the parenthesis, like `![A -> B](http://latex.codecogs.com/gif.latex?A%20%5Crightarrow%20B)`
