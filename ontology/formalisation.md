@@ -1,7 +1,7 @@
 # Ontology Formalisation
 
 This document aims at giving the basics for understanding the formal notations used in this project.
-We give a short description of the notation, a [second-order logic](https://en.wikipedia.org/wiki/Second-order_logic), and various examples for helping the reader to understand.
+We give a short description of the notation we use, a [second-order logic](https://en.wikipedia.org/wiki/Second-order_logic), and various examples for helping the reader to understand.
 If some points are unclear, wrong, or missing, feel free to create an issue or a pull request.
 
 ## Concepts
@@ -12,7 +12,7 @@ This formula can also be read as "John is an instance of the [User](concepts.md#
 
 ## Relationships
 
-A relationship is written as an [infix operator](https://en.wikipedia.org/wiki/Infix_notation) and tell that two concepts are related to each other in a specific way.
+A relationship is written as an [infix operator](https://en.wikipedia.org/wiki/Infix_notation) and tell that two elements are related to each other in a specific way.
 For example, we write that a [Dataset](concepts.md#dataset) [is a](relationships.md#is-a) [Research Item](concepts.md#research-item) through the formula ![Dataset is_a ResearchItem](http://latex.codecogs.com/gif.latex?Dataset%5C%20is%5C_a%5C%20ResearchItem).
 The order of the operands is important: ![Dataset is_a ResearchItem](http://latex.codecogs.com/gif.latex?Dataset%5C%20is%5C_a%5C%20ResearchItem) does not mean the same than ![ResearchItem is_a Dataset](http://latex.codecogs.com/gif.latex?ResearchItem%5C%20is%5C_a%5C%20Dataset).
 We choosed the infix notation to keep that clear when reading.
