@@ -12,3 +12,13 @@ If you are not familiar with our formal notation, please look [here](formalisati
 | Left operand  | Concept ![C1](http://latex.codecogs.com/gif.latex?C_1) |
 | Right operand | Concept ![C2](http://latex.codecogs.com/gif.latex?C_2) |
 | Example       | ![Dataset is_a ResearchItem](http://latex.codecogs.com/gif.latex?Dataset%5C%20is%5C_a%5C%20ResearchItem) |
+
+## has author
+
+|||
+|---|---|
+| Description   | Relate a [Research Item](concepts.md#research-item) to a [Peer](concepts.md#peer) who created it. |
+| Symbol        | ![has_author](http://latex.codecogs.com/gif.latex?has%5C_author) |
+| Left operand  | [Research Item](concepts.md#research-item) ![item](http://latex.codecogs.com/gif.latex?item) |
+| Right operand | [Peer](concepts.md#peer) ![peer](http://latex.codecogs.com/gif.latex?peer) |
+| Example       | ![Question(q), Peer(John), q has_author John](http://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20%26Question%28q%29%5C%5C%20%26Peer%28John%29%5C%5C%20%26q%5C%20has%5C_author%5C%20John%20%5Cend%7Balign*%7D) |
