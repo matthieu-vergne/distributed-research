@@ -6,6 +6,7 @@ We provide here the formal relationships we use to formalise our concepts.
 
 |||
 |---|---|
-| Description | The usual subtype relationships. |
-| Constraint  | P1(x) & P1 is a P2 => P2(x) |
-| Example     | Cow(x) & Cow is a Animal => Animal(x) |
+| Description   | The usual subtype relationships. |
+| Formalisation | C1 is_a C2 |
+| Consequences  | C1(x) & C1 is_a C2 => C2(x) |
+| Example       | Cow(x) & Cow is_a Animal => Animal(x) |
