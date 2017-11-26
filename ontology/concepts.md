@@ -184,4 +184,4 @@ We provide here the list of concepts of our research ontology.
 This ontology is designed with the goal of having small, quick to produce [Research Items](#research-item).
 The whole point is that the [User](#user) can produce one or few [Research Items](#research-item) even with scarce information or expertise, and submit them to other [Peers](#peer) immediately.
 [Quality Measures](#quality-measure) (automatic or manual) can be used to evaluate the quality of a [Research Item](#research-item), thus suggesting improvements to perform.
-In other words, we try to avoid the production of whole "paper" or even "drafts", on which the [User](#user) might spend an indefinite amount of time, and push towards immediate sharing of new, easy to read content.
+In other words, we try to avoid the production of whole "papers" or even "drafts", on which the [User](#user) might spend an indefinite amount of time, and push towards immediate sharing of small, fast to write/read content.
