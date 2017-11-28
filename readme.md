@@ -48,9 +48,19 @@ Please look our [contribution guidelines](contributing.md) for more information.
 
 # Distributed vs. Traditionnal Research
 
-One thing to be clarified is that we **are not rivals** of the traditionnal publishers.
-We want to offer an alternative to those who do not recognise themselves in the way traditional research is produced, not take the lead.
-Traditionnal publishing has achieved a great job to produce high quality, reliable scientific outcomes, and we share this objective with it.
-But it did so through a centralised architecture, enforcing the focus on the most relevant production only, a strategy naturally leading towards resource-consuming controls and competitive behaviours (e.g. to obtain grants or have papers published).
-Our proposal fosters cheap controls and cooperative behaviours, where low quality research can be produced and easily be improved through the participation of willing people.
-In the long term, our solution must be able to build on research produced through distributed means as well as what has been and will be produced through traditional publishers.
+Traditionnal research builds on the notion of *paper*, be it a blog post, a technical report, or an article in a conference or journal.
+A paper, however, is rather complex in terms of structure, since it is supposed to be a somehow complete package, especially the peer-reviewed ones like in conference and journals.
+It should indeed expose a needing context, present the state of the art with numerous references, highlight unanswered questions, propose answers, discuss them in the light of observations and data, and all of that through a rigorous method (not a [methodology](https://en.wikipedia.org/wiki/Methodology), for those who did not know).
+Such a thing cannot be achieved without a high level of expertise, which is why traditional publishing has achieved a great job in producing high quality outcomes.
+However, this is also these high level requirements which make the production of a *paper* almost impossible for people who did not follow a proper formation.
+
+Distributed research aims to break these requirements in small pieces, in order to dilute this complexity within a huge community and make it accessible to the population as a whole, with an emphasis on exchange and feedback.
+Rather than having one or few experts working on all the fronts at once, we want to see interested people ask questions they really care about, expert people provide pieces of answers and references, willing people bring these pieces together in a consistent whole to produce answers, and methodic people stress each of these pieces to identify the aspects to improve.
+Publishing such a product in a traditional way would be also painful, since finding the right conference or journal to publish to also requires knowledge about the relevant issues to consider, funds to go through the publication process, and months to wait for the publication to actually be available.
+Distributed research, however, is about immediate publication: this is because you published it that other people were able to look at it and contribute.
+
+Of course, if we dilute the complexity to make research producable from less expert people, we also dilute the level of expertise of such production, which is currently filtered out through traditionnal peer-reviews.
+This is why distributed research should not be considered as a solution *against* traditional publishing, but something rather complementary to it, more like research towards and from the people.
+While traditional research is mainly driven by high quality requirements (e.g. impact factor, H index), distributed research is driven by ease of access in terms of readability and production.
+We want to offer an alternative to those who do not recognise themselves in the way traditional research is produced, although we share the same will to produce high quality, reliable scientific outcomes.
+Rather than a centralised architecture, enforcing the focus on the most relevant outcomes only and requiring resource-consuming controls and competitive behaviours, we want to foster cheap controls and cooperative behaviours, where low quality research can be produced and easily improved through the participation of everyone.
